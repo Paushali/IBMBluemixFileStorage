@@ -1,6 +1,6 @@
 import swiftclient.client as swiftclient
 auth_url = 'https://identity.open.softlayer.com/v3'
-project_id = '335ae3d095a849d28d486c451d409e05'
+project_id = ''
 user_id ='****'
 region_name = 'dallas'
 password = '****'
